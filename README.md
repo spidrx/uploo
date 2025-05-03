@@ -1,6 +1,14 @@
 # uploo
  
-
+#### usage:
 ```bash  
-uploo -bucketname string -creds string -endpoint string -filename string -objname string -region string
+uploo   -access-key string \
+        -bucket string \
+        -content-type string \
+        -endpoint string \
+        -file string \
+        -location string \
+        -object string \
+        -secret-key string \
+        -use-ssl 
 ```
